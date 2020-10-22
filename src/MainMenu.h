@@ -5,13 +5,14 @@
 
 class MainMenu {
 public:
+	static std::string name;
 	static std::vector<std::string> menuNames;
 	static bool start();
-	static void init();
+	static bool init();
 
 private:
+	MainMenu() {}
 	static bool redirectInput(const int&);
-	static void renameMenus();
 	static void printMenu();
 };
 

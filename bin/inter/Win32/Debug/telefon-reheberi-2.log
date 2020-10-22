@@ -1,0 +1,7 @@
+﻿  MainMenu.cpp
+e:\telefon-reheberi-2\src\MainMenu.cpp(27,13): warning C4018: '>': signed/unsigned mismatch
+e:\telefon-reheberi-2\src\MainMenu.cpp(59,23): warning C4018: '>': signed/unsigned mismatch
+e:\telefon-reheberi-2\src\MainMenu.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+e:\telefon-reheberi-2\src\MainMenu.cpp(76,23): warning C4018: '<': signed/unsigned mismatch
+e:\telefon-reheberi-2\src\MainMenu.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+  telefon-reheberi-2.vcxproj -> e:\telefon-reheberi-2\bin\Win32\Debug\telefon-reheberi-2.exe

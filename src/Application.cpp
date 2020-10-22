@@ -3,9 +3,7 @@
 
 
 int main() {
-	bool isRunning = true;
-
-	MainMenu::init();
+	bool isRunning = MainMenu::init();
 	while (isRunning)
 		isRunning = MainMenu::start();
 
